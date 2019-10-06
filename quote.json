@@ -1,0 +1,18 @@
+Content-Type: application/json
+...
+[
+  {
+    "uid": "q1",
+    "updateDate": "2019-10-2T00:00:00.0Z",
+    "titleText": "Quote",
+    "mainText": "Fly like a butterfly sting like a bee",
+    "redirectionUrl": "https://www.goodreads.com/quotes"
+   },
+  {
+    "uid": "q2",
+    "updateDate": "2019-10-2T00:00:00.0Z",
+    "titleText": "Quote",
+    "mainText": "Stay hungry,stay foolish",
+    "redirectionUrl": "https://www.goodreads.com/quotes"
+  }
+]
